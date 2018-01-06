@@ -1,0 +1,13 @@
+/* styles */
+/* called by your view template */
+
+/* You might want to try something fancier: */
+/* less: http://lesscss.org/ */
+
+body {
+  background-color: #ECF0F1;
+}
+
+header {
+  height: 30px;
+}
